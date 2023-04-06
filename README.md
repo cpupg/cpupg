@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **wrote-code/wrote-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+大家好，欢迎来到我的 github 主页。我目前从事 web 后台开发，主要使用 spring mvc。工作之余也会写一些 react 代码。目前正在为自己开发一个基于 springboot 和 ant-design-pro 的本地素材管理系统，可以进入[前台](https://github.com/wrote-code/media-ui) 和[后台](https://github.com/wrote-code/media)。下面是我目前的一些工作状态：
+
+- 正在使用：spring, springboot, antd, antd-pro
+- 正在学习：python
+
+一些学习时写的 demo 和案例可以在[学习资料](https://github.com/tutorial-and-demo)中找到，可以作为参考，也可以作为复习资料。
