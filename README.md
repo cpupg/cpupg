@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 大家好，欢迎来到我的 github 主页。
 
-我的所有代码已经迁移到[极狐gitlab](https://jihulab.com/zhuge-cunfu)，国内用户如果访问github抽风，可以暂时访问极狐。
-
-目前正在研究gitlab流水线，将来所有仓库推送后都将通过流水线同步github，如果有问题可以在github提issue，如果你有极狐账号，也可以在极狐提，如果没有账号就在github提。使用gitlab主要是方便自己以及看我笔记和文章的同行，同步githuab是方便大家。
+我的所有代码已经迁移到[极狐gitlab](https://jihulab.com/zhuge-cunfu)，后续代码提交也会提交到极狐，并通过gitlab自带镜像功能延时同步到github。国内用户如果访问github抽风，可以暂时访问极狐。
