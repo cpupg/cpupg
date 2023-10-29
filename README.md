@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - [语雀](https://www.yuque.com/nopointexception)
 
 语雀用来记笔记，极狐用来托管代码。语雀笔记将来会逐步迁移到flowus，同时关闭语雀内容的公开分享（年费到期了）。
+
+使用极狐lab不适用gitee主要是因为极狐lab查看提交记录不需要登录，而gitee需要登录。若将来极狐lab需要登录才能看提交，我将会再次迁移代码到其他平台，同时注销账号。gitee目前只用来同步本地markdown笔记。
