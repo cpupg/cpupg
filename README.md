@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 大家好，我是wrote-code，是一位全职java程序员，目前在国内做后台开发工作，这是我的github/gitlab主页，工作之余写的代码都会放在这里，不管是写出来自己用的（比如media和media-ui）还是学习用（比如mycode-sample就是所有学习用到的仓库）。为了方便大家访问，我的所有代码都会提交到[极狐lab](https://jihulab.com)并通过极狐自带的[镜像功能](https://docs.gitlab.cn/jh/user/project/repository/mirror/)同步到github。本月底开始所有学习笔记中由我编写的代码的仓库链接也使用gitlab，老笔记的链接如果碰到也会改为gitlab。
 
-gitlab和github上的代码完全一样，但是访问路径不一样，对应的链接如下（省略前缀https://jihulab.com/wrote-code和https://github.com/wrote-code）：
+gitlab和github上的代码完全一样，但是访问路径不一样，对应的链接如下（省略前缀https://jihulab.com/wrote-code 和 https://github.com/wrote-code ）：
 
 | 链接类型                               | gitlab格式                                                   | github格式                                |
 | -------------------------------------- | ------------------------------------------------------------ | ----------------------------------------- |
