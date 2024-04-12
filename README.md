@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 个人主页：
 
-- [极狐lab](https://jihulab.com/zhuge-cunfu)（将来会销号，参考[极狐官方说明](https://gitlab.cn/blog/2023/11/29/saas-adjustment/)
-- [语雀](https://www.yuque.com/nopointexception)
+- [语雀（已停更）](https://www.yuque.com/nopointexception)
 - [github](https://github.com/wrote-code)
+- [博客和笔记](https://wrote-code.github.io)
 
 <!-- - flowus公开分享目录页 -->
 <!-- - 阿里云社区或其他可以写技术文章的网站 -->
