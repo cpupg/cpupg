@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-欢迎光临寒舍。
+欢迎光临。
 
 个人主页：
 
-- [语雀（已停更）](https://www.yuque.com/nopointexception)
-- [github](https://github.com/wrote-code)
-- [博客和笔记](https://wrote-code.github.io)
+- [语雀（已停更，只能看历史文章）](https://www.yuque.com/nopointexception)
+- [博客和笔记](https://cpupg.github.io)
 
 <!-- - flowus公开分享目录页 -->
 <!-- - 阿里云社区或其他可以写技术文章的网站 -->
